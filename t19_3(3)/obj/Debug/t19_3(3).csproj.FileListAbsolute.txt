@@ -1,0 +1,7 @@
+D:\Овчарук_Марков 215\t19_3(3)\bin\Debug\t19_3(3).exe.config
+D:\Овчарук_Марков 215\t19_3(3)\bin\Debug\t19_3(3).exe
+D:\Овчарук_Марков 215\t19_3(3)\bin\Debug\t19_3(3).pdb
+D:\Овчарук_Марков 215\t19_3(3)\obj\Debug\t19_3(3).csproj.AssemblyReference.cache
+D:\Овчарук_Марков 215\t19_3(3)\obj\Debug\t19_3(3).csproj.CoreCompileInputs.cache
+D:\Овчарук_Марков 215\t19_3(3)\obj\Debug\t19_3(3).exe
+D:\Овчарук_Марков 215\t19_3(3)\obj\Debug\t19_3(3).pdb
